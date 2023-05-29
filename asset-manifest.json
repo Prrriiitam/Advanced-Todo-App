@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Advanced-Todo-App/static/css/main.8c5b1f29.css",
+    "main.js": "/Advanced-Todo-App/static/js/main.b7015aac.js",
+    "static/js/787.4b752bae.chunk.js": "/Advanced-Todo-App/static/js/787.4b752bae.chunk.js",
+    "index.html": "/Advanced-Todo-App/index.html",
+    "main.8c5b1f29.css.map": "/Advanced-Todo-App/static/css/main.8c5b1f29.css.map",
+    "main.b7015aac.js.map": "/Advanced-Todo-App/static/js/main.b7015aac.js.map",
+    "787.4b752bae.chunk.js.map": "/Advanced-Todo-App/static/js/787.4b752bae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c5b1f29.css",
+    "static/js/main.b7015aac.js"
+  ]
+}
